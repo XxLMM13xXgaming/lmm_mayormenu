@@ -34,3 +34,4 @@ LMMMMConfig.MayorCMDS = {} -- At the moment this only supports chat commands so 
 LMMMMConfig.MayorCMDS.C1 = { "Lockdown", "/lockdown" }
 LMMMMConfig.MayorCMDS.C2 = { "End Lockdown", "/unlockdown" }
 LMMMMConfig.MayorCMDS.C3 = { "Reset Laws", "/resetlaws" }
+LMMMMConfig.MayorCMDS.C4 = { "Place Laws", "/placelaws" }
